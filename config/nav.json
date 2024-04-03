@@ -1,5 +1,41 @@
 [
 	{
+		"group_name": "国wei的私人订制",
+		"style": 1,
+		"style_des": "标准风格",
+		"tab_list": [
+			{
+				"tab_name": "我的网站",
+				"details": [
+					{
+						"title": "我的导航",
+						"url": "https://nav.devhub.icu/",
+						"icon": "https://img.fre123.com/i/2023/11/25/65619e791f166.ico",
+						"description": " Powered by @fre123",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Excalidraw绘图",
+						"url": "https://draw.devhub.icu/",
+						"icon": "https://draw.devhub.icu/favicon-32x32.png",
+						"description": "虚拟白板",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "国wei的博客",
+						"url": "https://blog.devhub.icu/",
+						"icon": "https://blog.devhub.icu/favicon/favicon.ico",
+						"description": "技术分享、生活随笔",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			}
+		]
+	},
+	{
 		"group_name": "新闻资讯",
 		"style": 1,
 		"style_des": "标准风格",
