@@ -86,7 +86,7 @@
 					{
 						"title": "腾讯QQ工具箱",
 						"url": "https://tool.browser.qq.com/category/develop",
-						"icon": "/images/icons/腾讯QQ浏览器在线工具箱.ico",
+						"icon": "/images/icons/腾讯QQ浏览器在线工具箱.jpg",
 						"description": "鹅厂家的工具站，部分收费",
 						"suffix": false,
 						"is_show": true
@@ -103,7 +103,16 @@
 						"description": "在线logo设计 by Shopify",
 						"suffix": false,
 						"is_show": true
+					},
+					{
+						"title": "favicon.ico生成",
+						"url": "https://favicon.io/favicon-converter/",
+						"icon": "/images/icons/favicon.png",
+						"description": "favicon.ico生成",
+						"suffix": false,
+						"is_show": true
 					}
+
 				]
 			}
 		]

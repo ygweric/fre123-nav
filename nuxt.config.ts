@@ -22,19 +22,19 @@ export default defineNuxtConfig({
 					rel: 'icon',
 					// size: '32x32',
 					type: 'image/x-icon',
-					href: 'https://img.fre123.com/i/2023/11/25/65619e791f166.ico',
+					href: '/favicon.ico',
 				},
 			],
 			meta: [
 				{
 					name: 'keywords',
 					content:
-						'FRE123, 免费资源, 优质资源, 资源聚合, 在线资源, 影视资源, 动漫番剧, 软件工具, 网盘资源',
+						'软件开发工具、软件开发利器、代码编辑器、版本控制系统、调试工具、性能优化工具、前端开发工具、后端开发工具、移动开发工具、测试工具、开发效率',
 				},
 				{
 					name: 'description',
 					content:
-						'FRE123 专注于为您提供各种免费优质资源，包括影视资源、动漫番剧、软件工具等。无论您在寻找哪种资源，我们都将尽力为您提供，为您的学习或工作助力',
+						'欢迎来到DevHub ICU，您的软件开发利器！我们提供丰富多样的软件开发工具，包括代码编辑器、版本控制系统、调试工具、性能优化工具等。无论您是前端开发、后端开发、移动开发还是测试人员，我们都有适合您的工具选择。我们的目标是为您提供高效、便捷的开发体验。立即加入我们，提升您的软件开发效率！',
 				},
 			],
 		},
@@ -73,5 +73,6 @@ export default defineNuxtConfig({
 		],
 	},
 
-	devtools: { enabled: process.env.NODE_ENV === 'development' ? true : false },
+	// devtools: { enabled: process.env.NODE_ENV === 'development' ? true : false },
+	devtools: { enabled: false},
 })
