@@ -44,14 +44,6 @@
 				"tab_name": "开发工具",
 				"details": [
 					{
-						"title": "Tiny Png",
-						"url": "https://tinypng.com/",
-						"icon": "/images/icons/tinypng.webp",
-						"description": "图片压缩",
-						"suffix": false,
-						"is_show": true
-					},
-					{
 						"title": "Unicode/中文转换",
 						"url": "https://www.w3cschool.cn/tools/index?name=unicode_chinese",
 						"icon": "/images/icons/Unicode中文转换.png",
@@ -97,10 +89,26 @@
 				"tab_name": "设计工具",
 				"details": [
 					{
-						"title": "在线logo设计",
+						"title": "在线logo设计(推荐）",
+						"url": "https://logo.com/",
+						"icon": "/images/icons/logo-com.png",
+						"description": "在线logo设计",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Shopify在线logo设计",
 						"url": "https://hatchful.shopify.com/zh-CN/",
-						"icon": "https://cdn.shopify.com/static/shopify-favicon.png",
+						"icon": "/images/icons/shopify.png",
 						"description": "在线logo设计 by Shopify",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Tiny Png",
+						"url": "https://tinypng.com/",
+						"icon": "/images/icons/tinypng.webp",
+						"description": "图片压缩",
 						"suffix": false,
 						"is_show": true
 					},

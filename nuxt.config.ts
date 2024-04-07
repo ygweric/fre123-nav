@@ -21,8 +21,8 @@ export default defineNuxtConfig({
 				{
 					rel: 'icon',
 					// size: '32x32',
-					type: 'image/x-icon',
-					href: '/favicon.ico',
+					type: 'image/png',
+					href: '/favicon.png',
 				},
 			],
 			meta: [
