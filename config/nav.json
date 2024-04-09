@@ -10,8 +10,16 @@
 					{
 						"title": "我的导航",
 						"url": "https://nav.devhub.icu/",
-						"icon": "/images/icons/nav-website.png",
+						"icon": "/logo/logo-300.png",
 						"description": "Powered by @fre123",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "国wei的博客",
+						"url": "https://blog.devhub.icu/",
+						"icon": "/images/icons/eric.png",
+						"description": "技术分享、生活随笔",
 						"suffix": false,
 						"is_show": true
 					},
@@ -20,14 +28,6 @@
 						"url": "https://draw.devhub.icu/",
 						"icon": "/images/icons/excalidraw.jpg",
 						"description": "虚拟白板",
-						"suffix": false,
-						"is_show": true
-					},
-					{
-						"title": "国wei的博客",
-						"url": "https://blog.devhub.icu/",
-						"icon": "/images/icons/blog.png",
-						"description": "技术分享、生活随笔",
 						"suffix": false,
 						"is_show": true
 					}
