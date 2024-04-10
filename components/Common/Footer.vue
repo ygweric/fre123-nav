@@ -1,6 +1,6 @@
 <template>
-	<footer class="text-left text-[#6c757d] p-6 bg-[rgba(248,249,250,1)] h-[70px]">
-		<section class="flex justify-center">
+	<footer class="text-left text-[#6c757d] p-6 bg-[rgba(248,249,250,1)] h-[70px] fixed left-0 right-0 bottom-0">
+		<section class="flex justify-between">
 			<!-- Left -->
 			<div class="text-[14px] h-[30px]">
 				<span
@@ -15,8 +15,11 @@
 				</span>
 			</div>
 			<!-- Left -->
-
-			<div v-if="footerConfig.right.is_show" class="flex-grow"></div>
+			
+			
+			<div  class="flex-grow flex justify-center items-center text-sm">
+				<a href="http://beian.miit.gov.cn/" target="_blank">京ICP备2024056307号</a>
+			</div>
 			<!-- Right -->
 			<div
 				v-if="footerConfig.right.is_show && footerConfig.right.list.length > 0"
