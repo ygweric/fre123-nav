@@ -22,7 +22,12 @@
 						"description": "技术分享、生活随笔",
 						"suffix": false,
 						"is_show": true
-					},
+					}
+				]
+			},
+			{
+				"tab_name": "fork部署",
+				"details": [
 					{
 						"title": "Excalidraw绘图",
 						"url": "https://draw.devhub.icu/",
@@ -86,13 +91,21 @@
 				]
 			},
 			{
-				"tab_name": "设计工具",
+				"tab_name": "logo设计",
 				"details": [
 					{
 						"title": "在线logo设计(推荐）",
 						"url": "https://logo.com/",
 						"icon": "/images/icons/logo-com.png",
 						"description": "在线logo设计",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "DesignEvo(推荐）",
+						"url": "https://www.designevo.com/",
+						"icon": "/images/icons/designevo.png",
+						"description": "在线logo设计(收费、可截图)",
 						"suffix": false,
 						"is_show": true
 					},
@@ -105,18 +118,24 @@
 						"is_show": true
 					},
 					{
-						"title": "Tiny Png",
-						"url": "https://tinypng.com/",
-						"icon": "/images/icons/tinypng.webp",
-						"description": "图片压缩",
-						"suffix": false,
-						"is_show": true
-					},
-					{
 						"title": "favicon.ico生成",
 						"url": "https://favicon.io/favicon-converter/",
 						"icon": "/images/icons/favicon.png",
 						"description": "favicon.ico生成",
+						"suffix": false,
+						"is_show": true
+					}
+
+				]
+			},
+			{
+				"tab_name": "图片工具",
+				"details": [
+					{
+						"title": "Tiny Png",
+						"url": "https://tinypng.com/",
+						"icon": "/images/icons/tinypng.webp",
+						"description": "图片压缩",
 						"suffix": false,
 						"is_show": true
 					}
