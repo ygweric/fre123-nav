@@ -79,17 +79,17 @@ withDefaults(
 
 // 控制头部变化
 const headerAnimation = (action: string) => {
-	const headerDom = document.getElementById('fre123-header')
-	const searchDom = document.getElementById('resource-menu')
-	if (headerDom) {
-		if (action == 'smaller') {
-			headerDom.classList.add('custom-size')
-			searchDom?.classList.add('hidden')
-		} else {
-			headerDom.classList.remove('custom-size')
-			searchDom?.classList.remove('hidden')
-		}
-	}
+	// const headerDom = document.getElementById('fre123-header')
+	// const searchDom = document.getElementById('resource-menu')
+	// if (headerDom) {
+	// 	if (action == 'smaller') {
+	// 		headerDom.classList.add('custom-size')
+	// 		searchDom?.classList.add('hidden')
+	// 	} else {
+	// 		headerDom.classList.remove('custom-size')
+	// 		searchDom?.classList.remove('hidden')
+	// 	}
+	// }
 }
 
 const isShow = ref(false)

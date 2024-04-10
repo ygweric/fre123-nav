@@ -44,7 +44,7 @@
 			"is_show": true,
 			"list": [
 				{
-					"icon_class": "fas fa-comment-dots",
+					"icon_class": "fa-brands fa-github",
 					"icon_size": 20,
 					"url": "https://github.com/ygweric/fre123-nav"
 				}

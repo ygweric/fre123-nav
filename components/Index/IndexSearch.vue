@@ -1,7 +1,7 @@
 <template>
 	<div class="w-full flex items-center justify-center flex-col">
 		<ul class="flex py-2 pl-[4rem] w-full text-sm relative" id="resource-menu">
-			<li id="search_tab_anchor" class="anchor text-[14px] h-full"></li>
+			<!-- <li id="search_tab_anchor" class="anchor text-[14px] h-full"></li> -->
 			<li
 				:id="`search_tab_${i}`"
 				class="flex px-2 div-center hover:text-[#007bff] truncate"
