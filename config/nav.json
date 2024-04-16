@@ -26,13 +26,58 @@
 				]
 			},
 			{
-				"tab_name": "fork部署",
+				"tab_name": "Fork部署",
 				"details": [
 					{
 						"title": "Excalidraw绘图",
 						"url": "https://draw.devhub.icu/",
 						"icon": "/images/icons/excalidraw.jpg",
 						"description": "虚拟白板",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "我的开源",
+				"details": [
+					{
+						"title": "Chrome插件: URL Block",
+						"url": "https://github.com/ygweric/chrome-url-block",
+						"icon": "/images/icons/url-block.png",
+						"description": "block一些娱乐、垃圾网站",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "短域名生成器",
+						"url": "https://github.com/ygweric/short-url",
+						"icon": "/images/icons/short-url.png",
+						"description": "前后端全套代码",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "VSCode插件: Format All",
+						"url": "https://github.com/ygweric/vscode-extension-format-all",
+						"icon": "/images/icons/format-all.png",
+						"description": "Format all files in the specific folder",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Tony MockJS",
+						"url": "https://github.com/ygweric/tony-mockjs",
+						"icon": "/images/icons/mock-js.png",
+						"description": "MockJS的维护版本",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Postcss pxtorem 修复",
+						"url": "https://github.com/ygweric/postcss-pxtorem",
+						"icon": "/images/icons/pxtorem.png",
+						"description": "Postcss pxtorem 的维护版本",
 						"suffix": false,
 						"is_show": true
 					}
@@ -69,6 +114,14 @@
 						"url": "https://tool.chinaz.com/tools/urlencode.aspx",
 						"icon": "/images/icons/UrlEncode编码解码.png",
 						"description": "UrlEncode编码/解码",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Base64编码/解码",
+						"url": "https://tool.chinaz.com/tools/base64.aspx",
+						"icon": "/images/icons/base64.png",
+						"description": "Base64编码/解码",
 						"suffix": false,
 						"is_show": true
 					},
@@ -140,6 +193,19 @@
 						"is_show": true
 					}
 
+				]
+			},
+			{
+				"tab_name": "地图接口",
+				"details": [
+					{
+						"title": "经纬度查询",
+						"url": "https://lbs.amap.com/demo/javascript-api/example/geocoder/regeocoding",
+						"icon": "/images/icons/regeocoding.png",
+						"description": "高德-逆地理编码",
+						"suffix": false,
+						"is_show": true
+					}
 				]
 			}
 		]
