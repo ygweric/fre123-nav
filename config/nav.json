@@ -134,6 +134,14 @@
 						"is_show": true
 					},
 					{
+						"title": "端口扫描",
+						"url": "https://tool.chinaz.com/port",
+						"icon": "/images/icons/port.png",
+						"description": "端口扫描",
+						"suffix": false,
+						"is_show": true
+					},
+					{
 						"title": "腾讯QQ工具箱",
 						"url": "https://tool.browser.qq.com/category/develop",
 						"icon": "/images/icons/腾讯QQ浏览器在线工具箱.jpg",
@@ -175,6 +183,14 @@
 						"url": "https://favicon.io/favicon-converter/",
 						"icon": "/images/icons/favicon.png",
 						"description": "favicon.ico生成",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Figma",
+						"url": "https://www.figma.com/",
+						"icon": "/images/icons/figma.png",
+						"description": "设计资源",
 						"suffix": false,
 						"is_show": true
 					}
