@@ -142,6 +142,14 @@
 						"is_show": true
 					},
 					{
+						"title": "随机key生成",
+						"url": "https://acte.ltd/utils/randomkeygen",
+						"icon": "/images/icons/key.png",
+						"description": "各种密钥key生成",
+						"suffix": false,
+						"is_show": true
+					},
+					{
 						"title": "腾讯QQ工具箱",
 						"url": "https://tool.browser.qq.com/category/develop",
 						"icon": "/images/icons/腾讯QQ浏览器在线工具箱.jpg",
@@ -194,7 +202,6 @@
 						"suffix": false,
 						"is_show": true
 					}
-
 				]
 			},
 			{
@@ -208,7 +215,6 @@
 						"suffix": false,
 						"is_show": true
 					}
-
 				]
 			},
 			{
