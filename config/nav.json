@@ -229,6 +229,19 @@
 						"is_show": true
 					}
 				]
+			},
+			{
+				"tab_name": "数学工具",
+				"details": [
+					{
+						"title": "Desmos连续计算器",
+						"url": "https://www.desmos.com/scientific?lang=zh-CN",
+						"icon": "/images/icons/calculator.png",
+						"description": "输入多个数字加减",
+						"suffix": false,
+						"is_show": true
+					}
+				]
 			}
 		]
 	}
