@@ -242,6 +242,19 @@
 						"is_show": true
 					}
 				]
+			},
+			{
+				"tab_name": "生活工具",
+				"details": [
+					{
+						"title": "多次提前还贷计算器",
+						"url": "https://tools.iszy.xyz/mtqLoans",
+						"icon": "/images/icons/loan.png",
+						"description": "多次提前还贷计算器",
+						"suffix": false,
+						"is_show": true
+					}
+				]
 			}
 		]
 	}
