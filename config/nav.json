@@ -214,6 +214,14 @@
 						"description": "图片压缩",
 						"suffix": false,
 						"is_show": true
+					},
+					{
+						"title": "base64图片查看",
+						"url": "https://base64-viewer.onrender.com/",
+						"icon": "/images/icons/base64_image.png",
+						"description": "查看base64字符串的图片",
+						"suffix": false,
+						"is_show": true
 					}
 				]
 			},
