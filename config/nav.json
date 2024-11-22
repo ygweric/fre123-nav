@@ -222,6 +222,14 @@
 						"description": "查看base64字符串的图片",
 						"suffix": false,
 						"is_show": true
+					},
+					{
+						"title": "流光卡片",
+						"url": "https://fireflycard.shushiai.com/",
+						"icon": "/images/icons/liu-guang.png",
+						"description": "全新的文字体验",
+						"suffix": false,
+						"is_show": true
 					}
 				]
 			},
