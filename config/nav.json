@@ -156,6 +156,14 @@
 						"description": "鹅厂家的工具站，部分收费",
 						"suffix": false,
 						"is_show": true
+					},
+					{
+						"title": "转义、反转义",
+						"url": "https://www.lzltool.com/string-escape ",
+						"icon": "",
+						"description": "鹅厂家的工具站，部分收费",
+						"suffix": false,
+						"is_show": true
 					}
 				]
 			},
